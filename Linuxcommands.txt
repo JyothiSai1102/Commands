@@ -1,0 +1,17 @@
+Terminal -terminal it used to interact with OS in linux
+COMMANDS USED IN LINUX
+mkdir -->to create a directory
+mkdir-p --> to create in subdirectories inthe respective directory
+clear/cls -->to clear the screen 
+pwd- to display the present working directory it is used to know in which file we are present
+ls --> to display the list of files in the system
+ls-a --> This command shows hidden files also
+cd --> change directory command
+cd- -->switching back to your previous directory
+cd.. --> to navigate parent directory i.e one step backwards
+cd~ --> to navigate to your home directly
+cd/ --> to get into root file
+touch filename.txt-->to create a file 
+cat --> add data to file and used only on files
+vi file name --> to add data into the file
+/etc/ -->for storing passwords to know
