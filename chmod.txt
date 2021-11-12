@@ -1,0 +1,15 @@
+chmod using numeric characters:
+
+NUMBER            RERPRESENTS           STATUS
+ 0                no permission          ---
+ 1               execute permision       --x
+ 2               write permission        -w-
+ 3                execute,write          -wx
+ 4                read permission        --r
+ 5                read ,execute          r-x
+ 6                read ,write            r-w
+ 7               read,write,execute      rwx
+
+Example command: chmod 777 <filename>
+  this will change the permissions for user, group and all others users to rwx
+  
