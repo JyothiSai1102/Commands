@@ -1,0 +1,18 @@
+              GIT COMMANDS
+git config --global user.name <user name> : This command is used to set user name 
+
+git config --global user.email <user-email> :This command is used to set the email
+ address to be used with your commits.
+
+git init :This command is used to start a new repository.
+git status: It shows all the files that have to be committed.
+git add :This command used to add file to the staging area.
+git commit -m "message" :This command records or snapshots the file permanently in the version of history 
+git clone <URL> : this is used to obtain a repository from an existing URL.
+git pull <URL> : It is used to pull the data from remote repository to local repository.
+
+git remote add origin <URL> : this comand adds the remote repository URL to local repository and refers to this remote repository as origin.
+git push origin <branch name> :  this command pushes all your local changes to remote repository changes
+git remote-v : It shows the remote repository link which you have added for pull and push operations.
+git rm <filename> : it deletes the file from repository.
+git log : To know the total commits we have done
