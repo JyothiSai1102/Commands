@@ -1,2 +1,2 @@
-# linux commands
+# Commands
 This is my first repository
